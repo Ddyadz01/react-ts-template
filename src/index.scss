@@ -1,0 +1,7 @@
+@use './variables';
+@use './reset';
+
+body {
+  background-color: var(--background-secondary);
+  font-family: 'Prompt', sans-serif;
+}
